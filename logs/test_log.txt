@@ -1,0 +1,4 @@
+Number of features:   86092
+Logistic accuracy:    0.958
+Naive Bayes accuracy: 0.962
+Voting accuracy:      0.964
